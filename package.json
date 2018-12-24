@@ -1,0 +1,25 @@
+{
+  "name": "pick-object-alias",
+  "version": "1.0.0",
+  "description": "pick and rename the key composition a new object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichspace/pick-object-alias.git"
+  },
+  "keywords": [
+    "pick",
+    "object",
+    "alias",
+    "rename"
+  ],
+  "author": "tangentguo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichspace/pick-object-alias/issues"
+  },
+  "homepage": "https://github.com/lichspace/pick-object-alias#readme"
+}
